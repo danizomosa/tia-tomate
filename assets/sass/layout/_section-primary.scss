@@ -1,0 +1,30 @@
+.section-primary{
+  background-color: $taupegray;
+  text-align: center;
+  color: $white;
+}
+
+.section-primary__container{
+
+  width: 50vw;
+
+}
+
+.section-primary__img {
+   width: 50vw;
+   padding-top: 4rem;
+}
+
+.section-primary__title{
+  font-family: $raleway;
+  font-size: $large;
+}
+.section-primary__text{
+  font-family: $raleway;
+  font-size: $medium;
+
+}
+
+.section-primary__text__bold{
+   font-weight: $bold;
+}

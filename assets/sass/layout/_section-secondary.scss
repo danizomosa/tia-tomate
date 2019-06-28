@@ -1,0 +1,29 @@
+.section-secondary{
+  background-color: $white;
+  text-align: center;
+  color: $taupegray;
+}
+
+.section-secondary__container{
+
+  flex-direction: column;
+  align-items: center;
+  width: 50vw;
+  padding-left: 25%;
+}
+
+.section-secondary__img {
+   width: 50vw;
+   padding-top: 4rem;
+}
+
+.section-secondary__title{
+  font-family: $raleway;
+  font-size: $large;
+}
+
+.section-secondary__text{
+  font-family: $raleway;
+  font-size: $medium;
+
+}
